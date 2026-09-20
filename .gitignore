@@ -1,0 +1,24 @@
+# ROS 2 / colcon generated files
+build/
+install/
+log/
+
+# Editor and agent-local state
+.vscode/
+.agents/
+.codex/
+*.db
+*.db-lock
+*.db.lock
+
+# Python and compiler artifacts
+__pycache__/
+*.py[cod]
+*.o
+*.so
+
+# Local checkout of the upstream tutorial repository
+ROS2_Learning/
+
+# OS metadata
+.DS_Store
